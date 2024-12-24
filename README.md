@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 This repository contains three web development projects designed for beginners to gain hands-on experience with HTML, CSS, and JavaScript. Each project focuses on building essential skills while fostering creativity and problem-solving abilities.
 
 ### Landing Page
@@ -45,12 +45,12 @@ Handling user input and validating data with JavaScript.
 Implementing conditional logic for temperature conversion formulas.
 Creating an interactive user interface with functional components.
 
-####Tools and Technologies
+#### Tools and Technologies
 HTML: For creating the structure of the webpages.
 CSS: For styling and improving the visual appeal.
 JavaScript: For interactive features in the temperature converter.
 
-####How to Run
+#### How to Run
 Clone the repository:
 bash
 Copy code
